@@ -50,7 +50,6 @@ ccTLD & TLD support
 .ar
 .at
 .au
-.aw
 .bank
 .be
 .biz
@@ -67,7 +66,6 @@ ccTLD & TLD support
 .com
 .com.au
 .com.tr
-.courses
 .cr
 .cz
 .de
@@ -99,7 +97,6 @@ ccTLD & TLD support
 .lt
 .lv
 .me
-.ml
 .mobi
 .mu
 .mx
@@ -116,6 +113,7 @@ ccTLD & TLD support
 .pharmacy
 .pl
 .press
+.pro
 .pt
 .pub
 .pw
@@ -130,7 +128,6 @@ ccTLD & TLD support
 .site
 .space
 .store
-.study
 .tech
 .tel
 .theatre
